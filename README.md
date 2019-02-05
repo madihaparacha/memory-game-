@@ -6,4 +6,4 @@ TOOLS:
 
 html/css/javascript
 
-https://madihaparacha.github.io/memory-game-/
+https://madihaperacha.github.io/memory-game-/
