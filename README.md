@@ -1,9 +1,8 @@
-MEMORY GAME
-
+## MEMORY GAME
 idea taking by tutorial
-
-TOOLS:
-
-html/css/javascript
-
+## Languages and Tools
+* HTML (Structuring)
+* SCSS (Styling)
+* Javascript (Functionality)
+## You can visit site here:
 https://madihaperacha.github.io/memory-game-/
